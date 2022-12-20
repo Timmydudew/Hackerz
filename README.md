@@ -2,17 +2,22 @@
 All hacking  tools in one 
 Thanks to JT
 
-# requirements
+# Commands to run tool
 
- ```$apt update (enter)
- $apt upgrade -y (enter)
- $pkg install ruby -y (enter)
- $gem install toilet -y (enter)
- $pkg install lolcat (enter)
- $pkg install figlet (enter)
- $pkg install git (enter)
- $pkg install python2 -y (enter)
- $pkg install nano php -y (enter)
- $pip2 install mechanize (enter)
- $pip2 install --upgrade pip (enter)
- $pip2 install requets (enter)
+ ```$apt update 
+ $apt upgrade -y 
+ $pkg install ruby -y 
+ $gem install toilet -y 
+ $pkg install lolcat 
+ $pkg install figlet 
+ $pkg install git 
+ $pkg install python2 -y 
+ $pkg install nano php -y 
+ $pip2 install mechanize 
+ $pip2 install --upgrade pip 
+ $pip2 install request 
+ $git clone https://github.com/Timmydudew/Hackerz
+ $cd Hackerz
+ $bash Hackerz.sh
+```
+ # Give a star and follow for more awesome repos
