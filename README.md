@@ -18,6 +18,6 @@ Thanks to JT
  $pip2 install request 
  $git clone https://github.com/Timmydudew/Hackerz
  $cd Hackerz
- $bash Hackerz.sh
+ $bash hacker.sh
 ```
  # Give a star and follow for more awesome repos
