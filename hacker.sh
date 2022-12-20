@@ -18,17 +18,15 @@ red='\e[1;31m'
 echo "Loading..." | lolcat
 sleep 2
 clear
-toilet -f future "CYBER KALLAN" | lolcat
+toilet -f future "JT" | lolcat
 sleep 2
 clear
 
-figlet MALLU HACKERS | lolcat
+figlet JT HACKERS | lolcat
 
 echo $b"============================================="
-echo   "Team    : 'KCG' Kerala cyber Guardians  $white" |lolcat
-echo   "Creadby  : CYBER KALALN (Arjun arz) $white" |lolcat
-echo   "Contact  : Instagram.com/arz_beats $white" |lolcat
-echo   "YouTube : CYBER KALLAN $white" |lolcat
+echo   "Creadby  : JT $white" |lolcat
+echo   "Contact  : github.com/Timmydudew $white" |lolcat
 echo $b"============================================="
 
 ###################################################
@@ -38,7 +36,7 @@ trap ctrl_c INT
 ctrl_c() {
 clear
 echo -b $red"[#]> (Ctrl + C ) Detected, Trying To Exit ... "
-echo -b $cyan"[#]> NOT FOR ILLEGEL USE"
+echo -b $cyan"[#]> NOT FOR ILLEGEL USE HEHE FOLLOW ME ON GITHUB"
 sleep 1
 echo ""
 echo -b $g"[#]> KCG"
@@ -442,7 +440,7 @@ sh Amer.sh
 ;;
 
 
-00) echo "created by : CYBER KALALN" | lolcat
+00) echo "created by : JT" | lolcat
 exit
 ;;
 
@@ -782,7 +780,7 @@ sh Amer.sh
 ;;
 
 
-00) echo "created by : CYBER KALLAN" | lolcat
+00) echo "created by : JT" | lolcat
 exit
 ;;
 
@@ -1122,7 +1120,7 @@ sh Amer.sh
 ;;
 
 
-00) echo "created by : CYBER KALLAN" | lolcat
+00) echo "created by : JT" | lolcat
 exit
 ;;
 
@@ -1802,7 +1800,7 @@ sh Amer.sh
 ;;
 
 
-00) echo "created by : CYBER KALLAN" | lolcat
+00) echo "created by : JT" | lolcat
 exit
 ;;
 
@@ -2112,7 +2110,7 @@ python2 d-tect.py
 #Instagram Brute Force
 
 28) clear
-toilet -f standard " CYBER KALLAN " -F gay
+toilet -f standard " JT " -F gay
 git clone https://github.com/linuxkukeren/instagram
 pip install requests
 pip install -r requirement.txt
@@ -2124,7 +2122,7 @@ python2 linuxkukerenhacking.py
 #Light_Bringer
 
 29) clear
-toilet -f standard " CYBER KALLAN " -F gay
+toilet -f standard " JT " -F gay
 git clone https://github.com/zlucifer/light_bringer
 cd light_bringer
 sh light.sh
